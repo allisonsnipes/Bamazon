@@ -39,7 +39,6 @@ function show() {
         [res[i].sku, res[i].product_name, res[i].department_name, res[i].price, res[i].stock_quantity])
     }
     console.log(table.toString())
-    restar9 
-    
+    restar()
   })
 }
