@@ -1,0 +1,25 @@
+{
+  "name": "10hw",
+  "version": "1.0.0",
+  "description": "## Overview",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allisonsnipes/bamazon.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allisonsnipes/bamazon/issues"
+  },
+  "homepage": "https://github.com/allisonsnipes/bamazon#readme",
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "fs": "0.0.1-security",
+    "inquirer": "^6.3.1",
+    "mysql": "^2.17.1"
+  }
+}
