@@ -42,3 +42,14 @@ function show() {
     restar()
   })
 }
+//message to users
+//prompt message to user for the sku they want to buy
+
+//prompt message for how many units they want
+
+
+//function to end program
+function exit() {
+  console.log("ending application")
+  connection.end()//method to end program
+}
